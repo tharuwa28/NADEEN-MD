@@ -25,7 +25,7 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
  ## DEPLOYMENT METHODS
 
 
-●. ***[SCAN PAIR CODE SERVER](https://pair-web-public.koyeb.app/)***
+●. ***[SCAN PAIR CODE SERVER](https://lithu-md-fair-web-6f8813b33b65.herokuapp.com/)***
 
 ### DEVELOPER:
 **GET In Touch with The Owner**
