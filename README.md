@@ -24,9 +24,12 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
 
  ## DEPLOYMENT METHODS
 
+<p align="center">
+<a href='https://lithu-md-fair-web-6f8813b33b65.herokuapp.com/' target="_blank"><img alt='Pair Code 01' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
-●. ***[SCAN PAIR CODE SERVER](https://nadeen-pair-code-1404da35c2dd.herokuapp.com/)***
-
+<p align="center">
+<a href='https://nadeen-pair-code-1404da35c2dd.herokuapp.com/' target="_blank"><img alt='Pair Code 02' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+  
 ### DEVELOPER:
 **GET In Touch with The Owner**
 - [**On YouTube**](https://youtube.com/@DINKA_FILMS)
