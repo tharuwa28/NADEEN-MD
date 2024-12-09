@@ -1,6 +1,6 @@
 ## NADEEN-MD👨‍💻 - A Javascript WhatsApp User Bot
 NADEEN-POORNA has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️
-### `1.0.5 Version`
+### `2.0.0 Version`
 😎 `The main goal of creating this bot is to fully leverage WhatsApp and simplify its functionality.`
 
 <br>
@@ -25,10 +25,13 @@ NADEEN-POORNA has been designed to make things easier and fun while using WhatsA
  ## DEPLOYMENT METHODS
 
 <p align="center">
-<a href='https://lithu-md-fair-web-6f8813b33b65.herokuapp.com/' target="_blank"><img alt='Pair Code 01' src='https://img.shields.io/badge/-Pair Code 01-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://sunny-dorine-nadeen-md-v2-b14d00b7.koyeb.app/' target="_blank"><img alt='Pair Code 01' src='https://img.shields.io/badge/-Pair Code 01-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center">
-<a href='https://nadeen-pair-code-1404da35c2dd.herokuapp.com/' target="_blank"><img alt='Pair Code 02' src='https://img.shields.io/badge/-Pair Code 02-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://sunny-dorine-nadeen-md-v2-b14d00b7.koyeb.app/pair' target="_blank"><img alt='Pair Code 02' src='https://img.shields.io/badge/-Pair Code 02-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
+
+<p align="center">
+<a href='https://delighted-vitoria-nadeenmd-95fb6e2f.koyeb.app/' target="_blank"><img alt='Pair Code 03' src='https://img.shields.io/badge/-Pair Code 02-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
   
 ### DEVELOPER:
 **GET In Touch with The Owner**
