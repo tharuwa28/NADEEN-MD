@@ -73,21 +73,16 @@ let up = `🚀 *_NADEEN-MD Connected Successfully!_* ✅
 
 --- *😈🎉 _Welcome to NADEEN-MD!_* 🎉😈 
 
-*🔹 PREFIX:* ${prefix}
+*💥 PREFIX:* ${prefix}
+*💥 OWNER:* ${ownerNumber}
+*💥 MADE BY:* Nadeen Poorna
 
-*🔹 OWNER:* ${ownerNumber}
+> Thank you for using *NADEEN-MD💗.*
 
-*🔹 MADE BY:* Nadeen Poorna
+> *💠Join WhatsApp Channel - :* https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I
+> *💠Repo - :* https://github.com/Nadeenpoorna-max/NADEEN-MD
 
-_Thank you for using_ *🕺NADEEN-MD💗.*
-_We're here to make your experience enjoyable and seamless._
-_If you need any help or have questions, don't hesitate to ask._ 🌝💗
-
-*🖇️Join My WhatsApp Channel✓💗 - :* https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I
-
-*🖇️Subscribe My Youtube Channel✓💗 - :* www.youtube.com/@DINKA_FILMS
-
-_*🕺Enjoy your time with us!😊*_
+> *POWERED BY DARK CYBER MATRIX™*
 
 *👨‍💻ɴᴀᴅᴇᴇɴ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ👨‍💻* `;
 
