@@ -6,7 +6,7 @@ const {cmd , commands} = require('../command')
 
 cmd({
 
-    pattern: "nadeenmd",
+    pattern: "nadeen",
     desc: "To get the bot informations.",
     react: "🔰",
     category: "main",
@@ -24,7 +24,7 @@ let about = ` *👋 Hello ${pushname}*
                     
  𝐈 𝐀𝐌 𝗡𝗔𝗗𝗘𝗘𝗡-𝗠𝗗 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓
  
-⚡𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝗡𝗔𝗗𝗘𝗘𝗡 𝗣𝗢𝗢𝗥𝗡𝗔 (𝗛𝗢𝗥𝗜𝗭𝗢𝗡 𝗠𝗔𝗧𝗥𝗜𝗫)..
+⚡𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝗡𝗔𝗗𝗘𝗘𝗡 𝗣𝗢𝗢𝗥𝗡𝗔 (𝗗𝗔𝗥𝗞 𝗖𝗬𝗕𝗘𝗥 𝗠𝗔𝗧𝗥𝗜𝗫)..
            
 *☄ɢɪᴛʜᴜʙ :* https://github.com/Nadeenpoorna-max/NADEEN-MD   
              
