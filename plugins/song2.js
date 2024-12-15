@@ -35,7 +35,7 @@ let ytmsg = `🎶 NADEEN-MD SONG DOWNLOADER 🎶
 > *▫ NADEEN-MD*
 `
 // SEND DETAILS
-await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' }, caption: `${ytmsg}`}, { quoted: mek });
+await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' }, caption: `*▫ NADEEN-MD*`}, { quoted: mek });
 
 // SEND AUDIO TYPE
 await conn.sendMessage(from, { audio: { url: ytdl.download.url }, mimetype: "audio/mpeg" }, { quoted: mek })
