@@ -18,7 +18,7 @@ cmd({
 async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
 
-let sadas = await fetchJson('https://darksadas-yt-sinhalasub-search.vercel.app/?q=${q}')
+let sadas = await fetchJson(`https://darksadas-yt-sinhalasub-search.vercel.app/?q=${q}`)
 const msg = *🎥 NADEEN-MD MOVIE SEARCH 🎥*
 
 if (sadas.data.length < 1) return await conn.sendMessage(from, { text: "🚩 I couldn't find anything :(" }, { quoted: mek } )
@@ -63,7 +63,7 @@ async(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, pre
 try{
 if (!q) return reply('🚩 Please give me a url')
 
-let sadas = await fetchJson('https://darksadas-yt-sinhalasub-info-dl.vercel.app/?url=${q}')
+let sadas = await fetchJson(`https://darksadas-yt-sinhalasub-info-dl.vercel.app/?url=${q}`)
 
 
 
@@ -141,7 +141,7 @@ async (conn, mek, m, {
 const datae = q.split("±")[0]
 const datas = q.split("±")[1]
 
-      let sadas = await fetchJson('https://darksadas-yt-sinhalasub-dl.vercel.app/?url=${datae}')    
+      let sadas = await fetchJson(`https://darksadas-yt-sinhalasub-dl.vercel.app/?url=${datae}`)    
 
 	    const da = sadas.downloadLink.split("https://pixeldrain.com/u/")[1]
 const fhd = 'https://pixeldrain.com/api/file/${da}'
