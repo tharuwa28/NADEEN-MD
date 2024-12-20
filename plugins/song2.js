@@ -5,7 +5,7 @@ const { ytsearch, ytmp3, ytmp4 } = require('@dark-yasiya/yt-dl.js');
 
 cmd({
     pattern: "song2",
-    alias: ["ytmp3","ytsong"],
+    alias: ["play","ytsong"],
     react: "🎶",
     desc: "Download Youtube song",
     category: "download",
@@ -35,7 +35,7 @@ let ytmsg = `🎶 NADEEN-MD SONG DOWNLOADER 🎶
 > *▫ NADEEN-MD*
 `
 // SEND DETAILS
-await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' }, caption: `*▫ NADEEN-MD*`}, { quoted: mek });
+await conn.sendMessage(from, { image: { url: yts.thumbnail || yts.image || '' }, caption: ytmsg }, { quoted: mek });
 
 // SEND AUDIO TYPE
 await conn.sendMessage(from, { audio: { url: ytdl.download.url }, mimetype: "audio/mpeg" }, { quoted: mek })
