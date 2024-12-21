@@ -64,7 +64,7 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('🧩 Installing... ')
+console.log('NADEEN-MD CONNECTED TO WHATSAPP✅')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
@@ -81,6 +81,7 @@ let up = `🚀 *_NADEEN-MD Connected Successfully!_* ✅
 *💥 PREFIX:* ${prefix}
 *💥 OWNER:* ${ownerNumber}
 *💥 MADE BY:* Nadeen Poorna
+*💥 MODE:* ${work}
 
 > Thank you for using *NADEEN-MD💗.*
 
