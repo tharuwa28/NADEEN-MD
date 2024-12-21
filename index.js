@@ -1,3 +1,6 @@
+//DO NOT EDIT THIS
+//NADEEN-MD-V2
+
 const {
 default: makeWASocket,
 useMultiFileAuthState,
