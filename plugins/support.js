@@ -28,7 +28,7 @@ let about = ` *👋 Hello ${pushname}*
 
 *🎃NADEEN-MD Support Channels🎃*
 
-*🔰Youtube Channel Link:* https://www.youtube.com/@DINKA_FILMS
+*🔰Youtube Channel Link:* https://www.youtube.com/@NADEEN-MD
 
 *⚜Whatsapp Channel Link:* https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I
 
@@ -38,7 +38,7 @@ let about = ` *👋 Hello ${pushname}*
 
 *©ɴᴀᴅᴇᴇɴ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ*`
 
-return await conn.sendMessage(from,{image: {url:`https://i.imgur.com/rRdKMrE.png`},caption:about},{quoted: mek})
+return await conn.sendMessage(from,{image: {url:`https://files.catbox.moe/2nmi9q.png`},caption:about},{quoted: mek})
 
 }catch(e){
 
