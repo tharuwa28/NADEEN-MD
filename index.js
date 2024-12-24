@@ -1,6 +1,3 @@
-//DO NOT EDIT THIS
-//NADEEN-MD-V2
-
 const {
 default: makeWASocket,
 useMultiFileAuthState,
@@ -84,12 +81,12 @@ let up = `🚀 *_NADEEN-MD Connected Successfully!_* ✅
 *💥 PREFIX:* ${prefix}
 *💥 OWNER:* ${ownerNumber}
 *💥 MADE BY:* Nadeen Poorna
-*💥 MODE:* ${work}
 
 > Thank you for using *NADEEN-MD💗.*
 
 > *💠Join WhatsApp Channel - :* https://whatsapp.com/channel/0029VagN2qW3gvWUBhsjcn3I
 > *💠Repo - :* https://github.com/Nadeenpoorna-max/NADEEN-MD
+> *💠YouTube - :* https://www.youtube.com/@NADEEN-MD
 
 > *POWERED BY DARK CYBER MATRIX™*
 
@@ -192,6 +189,14 @@ m.react("🦹🏻‍♂️")
 if(senderNumber.includes("947435489886")){
 if(isReact) return
 m.react("💃🏻")
+}
+if(senderNumber.includes("94716769285")){
+if(isReact) return
+m.react("👨🏻‍💻")
+}
+if(senderNumber.includes("94756857260")){
+if(isReact) return
+m.react("🐱‍👤")
 }
 
 //=====Auto-Read-Cmd==========
