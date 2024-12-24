@@ -71,6 +71,11 @@ let madeMenu = ` *👋 Hello ${pushname}*
  .ytsmx
  .ginisisila
  .sinhalasub
+ .upmv
+ .mkv
+ .upzip
+ .upme
+ .uptv
 ╰───────────●●►
 ╭──────────●●►
  🎉 *𝐅𝐮𝐧 𝐌𝐞𝐧𝐮*
