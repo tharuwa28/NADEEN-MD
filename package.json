@@ -37,6 +37,7 @@
     "google-tts-api":"2.0.2",
     "mongoose":"8.9.1",
     "wa-sticker-formatter":"4.4.4",
+    "xnxx-dl": "^1.0.4",
     "ytdl-core": "^4.11.5",
     "@dark-yasiya/yt-dl.js": "latest",
     "@dark-yasiya/news-scrap": "1.0.1",
