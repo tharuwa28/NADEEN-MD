@@ -1,1 +1,175 @@
-function _0x4ff2(){const _0x3cd26a=['contextInfo','2174140bkSPTU','1437510JmEPAk','*\x0a┣━📋\x20*Auto\x20Bio*\x20:\x20*','error','AUTO_READ_CMD','Invalid\x20option.\x20Please\x20select\x20a\x20valid\x20option🔴','AUTO_BIO','../lib/mongodbenv','Check\x20bot\x20online\x20or\x20not.','4.2','6.1','.startnews','AUTO_TYPING','.update\x20MODE:private','3.2','.stopnews','../lib/database','settings','63399KUjpYV','1583526VDWtdD','5.2','text','stanzaId','.restart','main','extendedTextMessage','sendMessage','𝙿𝚁𝙸𝚅𝙰𝚃𝙴👤','messages','.update\x20AUTO_READ_STATUS:false','.update\x20AUTO_VOICE:true','.update\x20AUTO_BIO:false','.update\x20AUTO_TYPING:false','https://files.catbox.moe/7exz93.png','7.1','.update\x20MODE:public','2652396OVDhkE','private','MODE','.update\x20AUTO_READ_STATUS:true','../command','102539kSQtkL','*\x0a┣━🔊\x20*Auto\x20Voice*\x20:\x20*','message','*\x0a┣━🛠️\x20*Auto\x20Read\x20Command*\x20:\x20*','𝙸𝙽𝙱𝙾𝚇\x20𝙾𝙽𝙻𝚈🫂','2.2','5066344EJmRKh','♻️\x20𝙾𝙽','true','6.2','1.2','🚫\x20𝙾𝙵𝙵','messages.upsert','7.2','74CkYAtj','.update\x20MODE:inbox','1.3','.update\x20AUTO_READ_CMD:true','.update\x20AUTO_READ_CMD:false','public','groups','set','2.1','*\x0a┃━━━━━━━━━━━━━━━━━━━━━━━┃\x0a┃\x20\x20\x20\x20\x20\x20🔗\x20\x20*CUSTOMIZE\x20YOUR\x20SETTINGS*\x20⤵️\x0a┗━━━━━━━━━━━━━━━━━━━━━━━┛\x0a┣━\x20*_WORK\x20MODE_*\x20⤵️\x0a┃\x20\x20\x20┣\x201.1\x20🌎\x20*Public\x20Work*\x0a┃\x20\x20\x20┣\x201.2\x20👤\x20*Private\x20Work*\x0a┃\x20\x20\x20┣\x201.3\x20👥\x20*Group\x20Only*\x0a┃\x20\x20\x20┗\x201.4\x20🫂\x20*Inbox\x20Only*\x0a\x0a┣━\x20*_AUTO\x20VOICE_*\x20⤵️\x0a┃\x20\x20\x20┣\x202.1\x20🔊\x20*Auto\x20Voice\x20On*\x0a┃\x20\x20\x20┗\x202.2\x20🔕\x20*Auto\x20Voice\x20Off*\x0a\x0a┣━\x20*_AUTO\x20STATUS\x20SEEN_*\x20⤵️\x0a┃\x20\x20\x20┣\x203.1\x20👁️‍🗨️\x20*Auto\x20Read\x20Status\x20On*\x0a┃\x20\x20\x20┗\x203.2\x20👁️❌\x20*Auto\x20Read\x20Status\x20Off*\x0a\x0a┣━\x20*_AUTO\x20BIO_*\x20⤵️\x0a┃\x20\x20\x20┣\x204.1\x20✍️\x20*Auto\x20Bio\x20On*\x0a┃\x20\x20\x20┗\x204.2\x20✍️❌\x20*Auto\x20Bio\x20Off*\x0a\x0a┣━\x20*_24/7\x20NEWS\x20SERVICE_*\x20⤵️\x0a┃\x20\x20\x20┣\x205.1\x20📰\x20*Activate\x20News\x20Service*\x0a┃\x20\x20\x20┗\x205.2\x20🛑\x20*Deactivate\x20News\x20Service*\x0a\x0a┣━\x20*_AUTO\x20TYPING_*\x20⤵️\x0a┃\x20\x20\x20┣\x206.1\x20📝\x20*Activate\x20Auto\x20Typing*\x0a┃\x20\x20\x20┗\x206.2\x20📝❌\x20*Deactivate\x20Auto\x20Typing*\x0a\x0a┣━\x20*_AUTO\x20COMMAND\x20READ_*\x20⤵️\x0a┃\x20\x20\x20┣\x207.1\x20🖊️\x20*Activate\x20Auto\x20Command\x20Read*\x0a┃\x20\x20\x20┗\x207.2\x20🖊️❌\x20*Deactivate\x20Auto\x20Command\x20Read*\x0a┗━━━━━━━━━━━━━━━━━━━━━━━┛\x0a\x0a>\x20*ɴᴀᴅᴇᴇɴ-ᴍᴅ\x20ʙʏ\x20ɴᴀᴅᴇᴇɴ\x20ᴘᴏᴏʀɴᴀ*\x0a','4.1','1.1','.update\x20MODE:group','AUTO_VOICE','.update\x20AUTO_BIO:true','inbox'];_0x4ff2=function(){return _0x3cd26a;};return _0x4ff2();}const _0x304605=_0x2e73;(function(_0x107424,_0x5d3f27){const _0x364e4e=_0x2e73,_0x5b7d62=_0x107424();while(!![]){try{const _0x563e8f=parseInt(_0x364e4e(0xe0))/0x1+parseInt(_0x364e4e(0xa6))/0x2*(parseInt(_0x364e4e(0xc9))/0x3)+-parseInt(_0x364e4e(0xdb))/0x4+-parseInt(_0x364e4e(0xb7))/0x5+-parseInt(_0x364e4e(0xb8))/0x6+parseInt(_0x364e4e(0xca))/0x7+parseInt(_0x364e4e(0x9e))/0x8;if(_0x563e8f===_0x5d3f27)break;else _0x5b7d62['push'](_0x5b7d62['shift']());}catch(_0x26786d){_0x5b7d62['push'](_0x5b7d62['shift']());}}}(_0x4ff2,0x633bb));const {updateEnv,readEnv}=require(_0x304605(0xc7)),{cmd,commands}=require(_0x304605(0xdf)),EnvVar=require(_0x304605(0xbe));function _0x2e73(_0x8ba5b8,_0x3d746f){const _0x4ff2b9=_0x4ff2();return _0x2e73=function(_0x2e7334,_0x5ba89d){_0x2e7334=_0x2e7334-0x9e;let _0x4f261e=_0x4ff2b9[_0x2e7334];return _0x4f261e;},_0x2e73(_0x8ba5b8,_0x3d746f);}cmd({'pattern':_0x304605(0xc8),'alias':['setting',_0x304605(0xad)],'desc':_0x304605(0xbf),'category':_0x304605(0xcf),'react':'⚙️','filename':__filename},async(_0x5920b7,_0x487cb5,_0x812302,{from:_0x2df5d5,quoted:_0x160336,body:_0x51056a,isCmd:_0x12b749,command:_0x4ec7d1,args:_0x4e34cc,q:_0x5cb6df,isGroup:_0x27bbaa,sender:_0xd0fb28,senderNumber:_0x1b66fb,botNumber2:_0x481992,botNumber:_0x277351,pushname:_0x1f3508,isMe:_0x4d778b,isOwner:_0x111529,groupMetadata:_0x2b2321,groupName:_0xb39c3b,participants:_0x1a7728,groupAdmins:_0x3dd1f3,isBotAdmins:_0x54d3b0,isAdmins:_0x48dddd,reply:_0x1eac1e})=>{const _0x443e31=_0x304605;try{if(!_0x111529)return;const _0x38dd8f=await readEnv();let _0x36222a;switch(_0x38dd8f[_0x443e31(0xdd)]){case _0x443e31(0xab):_0x36222a='𝙿𝚄𝙱𝙻𝙸𝙲🌎';break;case _0x443e31(0xdc):_0x36222a=_0x443e31(0xd2);break;case _0x443e31(0xac):_0x36222a='𝙶𝚁𝙾𝚄𝙿\x20𝙾𝙽𝙻𝚈👥';break;case _0x443e31(0xb5):_0x36222a=_0x443e31(0xe4);break;default:_0x36222a='𝚄𝙽𝙺𝙾𝚆𝙽🛑';}let _0x37e0c8=_0x38dd8f['AUTO_READ_STATUS']===_0x443e31(0xa0)?_0x443e31(0x9f):_0x443e31(0xa3),_0x409691=_0x38dd8f[_0x443e31(0xb3)]===_0x443e31(0xa0)?_0x443e31(0x9f):_0x443e31(0xa3),_0x21d06d=_0x38dd8f[_0x443e31(0xbb)]===_0x443e31(0xa0)?_0x443e31(0x9f):'🚫\x20𝙾𝙵𝙵',_0x102455=_0x38dd8f[_0x443e31(0xc3)]===_0x443e31(0xa0)?_0x443e31(0x9f):_0x443e31(0xa3),_0x425fbb=_0x38dd8f[_0x443e31(0xbd)]==='true'?_0x443e31(0x9f):_0x443e31(0xa3);const _0x5c0784=await _0x5920b7[_0x443e31(0xd1)](_0x2df5d5,{'image':{'url':_0x443e31(0xd8)},'caption':'┏━━━━━━━━━━━━━━━━━━━━━━━┓\x0a┃\x20\x20\x20\x20\x20\x20\x20⚙️\x20*NADEEN-MD\x20BOT\x20SETTINGS*\x20⚙️\x0a┃━━━━━━━━━━━━━━━━━━━━━━━┃\x0a┣━💼\x20*Work\x20Mode*\x20:\x20*'+_0x36222a+_0x443e31(0xe1)+_0x409691+'*\x0a┣━📝\x20*Auto\x20Status*\x20:\x20*'+_0x37e0c8+_0x443e31(0xb9)+_0x425fbb+'*\x0a┣━⌨️\x20*Auto\x20Typing*\x20:\x20*'+_0x102455+_0x443e31(0xe3)+_0x21d06d+_0x443e31(0xaf)},{'quoted':_0x487cb5});_0x5920b7['ev']['on'](_0x443e31(0xa4),async _0x232e90=>{const _0xddf679=_0x443e31,_0x3e2b4c=_0x232e90[_0xddf679(0xd3)][0x0];if(!_0x3e2b4c[_0xddf679(0xe2)]||!_0x3e2b4c[_0xddf679(0xe2)][_0xddf679(0xd0)])return;const _0x2faab7=_0x3e2b4c[_0xddf679(0xe2)][_0xddf679(0xd0)][_0xddf679(0xcc)]['trim']();if(_0x3e2b4c[_0xddf679(0xe2)][_0xddf679(0xd0)][_0xddf679(0xb6)]&&_0x3e2b4c[_0xddf679(0xe2)][_0xddf679(0xd0)][_0xddf679(0xb6)][_0xddf679(0xcd)]===_0x5c0784['key']['id'])switch(_0x2faab7){case _0xddf679(0xb1):_0x1eac1e(_0xddf679(0xda)),_0x1eac1e(_0xddf679(0xce));break;case _0xddf679(0xa2):_0x1eac1e(_0xddf679(0xc4)),_0x1eac1e('.restart');break;case _0xddf679(0xa8):_0x1eac1e(_0xddf679(0xb2)),_0x1eac1e('.restart');break;case'1.4':_0x1eac1e(_0xddf679(0xa7)),_0x1eac1e(_0xddf679(0xce));break;case _0xddf679(0xae):_0x1eac1e(_0xddf679(0xd5)),_0x1eac1e('.restart');break;case _0xddf679(0xe5):_0x1eac1e('.update\x20AUTO_VOICE:false'),_0x1eac1e(_0xddf679(0xce));break;case'3.1':_0x1eac1e(_0xddf679(0xde)),_0x1eac1e(_0xddf679(0xce));break;case _0xddf679(0xc5):_0x1eac1e(_0xddf679(0xd4)),_0x1eac1e('.restart');break;case _0xddf679(0xb0):_0x1eac1e(_0xddf679(0xb4)),_0x1eac1e(_0xddf679(0xce));break;case _0xddf679(0xc0):_0x1eac1e(_0xddf679(0xd6)),_0x1eac1e(_0xddf679(0xce));break;case'5.1':_0x1eac1e(_0xddf679(0xc2));break;case _0xddf679(0xcb):_0x1eac1e(_0xddf679(0xc6));break;case _0xddf679(0xc1):_0x1eac1e('.update\x20AUTO_TYPING:true'),_0x1eac1e(_0xddf679(0xce));break;case _0xddf679(0xa1):_0x1eac1e(_0xddf679(0xd7)),_0x1eac1e(_0xddf679(0xce));break;case _0xddf679(0xd9):_0x1eac1e(_0xddf679(0xa9)),_0x1eac1e(_0xddf679(0xce));break;case _0xddf679(0xa5):_0x1eac1e(_0xddf679(0xaa)),_0x1eac1e(_0xddf679(0xce));break;default:_0x1eac1e(_0xddf679(0xbc));}});}catch(_0x5ea2f2){console[_0x443e31(0xba)](_0x5ea2f2),await _0x5920b7[_0x443e31(0xd1)](_0x2df5d5,{'react':{'text':'❌','key':_0x487cb5['key']}}),_0x1eac1e('An\x20error\x20occurred\x20while\x20processing\x20your\x20request.');}});
+const { updateEnv, readEnv } = require('../lib/database');
+const { cmd, commands } = require('../command');
+const EnvVar = require('../lib/mongodbenv');
+
+cmd({
+    pattern: "settings",
+    alias: ["setting","set"],
+    desc: "Check bot online or not.",
+    category: "main",
+    react: "⚙️",
+    filename: __filename
+}, 
+async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+        if (!isOwner) return;
+
+        const config = await readEnv();
+
+        let work;
+        switch (config.MODE) {
+            case 'public':
+                work = '𝙿𝚄𝙱𝙻𝙸𝙲🌎';
+                break;
+            case 'private':
+                work = '𝙿𝚁𝙸𝚅𝙰𝚃𝙴👤';
+                break;
+            case 'groups':
+                work = '𝙶𝚁𝙾𝚄𝙿 𝙾𝙽𝙻𝚈👥';
+                break;
+            case 'inbox':
+                work = '𝙸𝙽𝙱𝙾𝚇 𝙾𝙽𝙻𝚈🫂';
+                break;
+            default:
+                work = '𝚄𝙽𝙺𝙾𝚆𝙽🛑';
+        }
+
+        let autoStatus = config.AUTO_READ_STATUS === 'true' ? '✅ 𝙾𝙽' : '🚫 𝙾𝙵𝙵';
+        let autoVoice = config.AUTO_VOICE === 'true' ? '✅ 𝙾𝙽' : '🚫 𝙾𝙵𝙵';
+        let autoReadcmd = config.AUTO_READ_CMD === 'true' ? '✅ 𝙾𝙽' : '🚫 𝙾𝙵𝙵';
+        let autoTyping = config.AUTO_TYPING === 'true' ? '✅ 𝙾𝙽' : '🚫 𝙾𝙵𝙵';
+        let autoBio = config.AUTO_BIO === 'true' ? '✅ 𝙾𝙽' : '🚫 𝙾𝙵𝙵';
+
+        const vv = await conn.sendMessage(from, {
+            image: { url: 'https://files.catbox.moe/7exz93.png' },
+            caption: `╭━─≪ ✠ || ✠ ≫─━╮
+░▒▓█      🛠 *NADEEN-MD BOT SETTINGS* 🛠
+░▒▓█▄︻┻ ------------| ︻┳═─-
+░▒▓█💥 *Work Mode* || *${work}*
+░▒▓█💥 *Auto Voice* || *${autoVoice}*
+░▒▓█💥 *Auto Status* || *${autoStatus}*
+░▒▓█💥 *Auto Bio* || *${autoBio}*
+░▒▓█💥 *Auto Typing* || *${autoTyping}*
+░▒▓█💥 *Auto Read Command* || *${autoReadcmd}*
+░▒▓█╭━─≪ ✠ || ✠ ≫─━╮
+░▒▓      🔗  *CUSTOMIZE YOUR SETTINGS* 🛠
+    ╰━─≪ ✠ || ✠ ≫─━╯
+░▒▓█ *┈━═☆[1]WORK MODE ☆═━┈* ⚙
+░▒▓    1.1 || *Public Work*
+░▒▓█   1.2 || *Private Work*
+░▒▓█   1.3 || *Group Only*
+░▒▓█   1.4 || *Inbox Only*
+
+░▒▓█ *┈━═☆[2] AUTO VOICE ☆═━┈* ⚙
+░▒▓█  2.1 || *Auto Voice On*
+░▒▓█  2.2 || *Auto Voice Off*
+
+░▒▓█ *┈━═☆[3] AUTO STATUS SEEN ☆═━┈* ⚙
+░▒▓█  3.1 || *Auto Read Status On*
+░▒▓█  3.2 || *Auto Read Status Off*
+
+░▒▓█ *┈━═☆[4] AUTO BIO ☆═━┈* ⚙
+░▒▓█  4.1 || *Auto Bio On*
+░▒▓█  4.2 ||*Auto Bio Off*
+
+░▒▓█ *┈━═☆[5] AUTO NEWS SERVICE ☆═━┈* ⚙
+░▒▓█  5.1 || *Activate News Service*
+░▒▓█  5.2 || *Deactivate News Service*
+
+░▒▓█ *┈━═☆[6] AUTO TYPING ☆═━┈* ⚙
+░▒▓█  6.1 || *Activate Auto Typing*
+░▒▓█  6.2 || *Deactivate Auto Typing*
+
+░▒▓█ *┈━═☆[7] AUTO COMMAND READ ☆═━┈* ⚙
+░▒▓█  7.1 || *Activate Auto Command Read*
+░▒▓█  7.2 || *Deactivate Auto Command Read*
+╰━─≪ ✠ || ✠ ≫─━╯
+
+> *ɴᴀᴅᴇᴇɴ-ᴍᴅ ʙʏ ɴᴀᴅᴇᴇɴ ᴘᴏᴏʀɴᴀ*
+`
+        }, { quoted: mek });
+
+        conn.ev.on('messages.upsert', async (msgUpdate) => {
+            const msg = msgUpdate.messages[0];
+            if (!msg.message || !msg.message.extendedTextMessage) return;
+
+            const selectedOption = msg.message.extendedTextMessage.text.trim();
+
+            if (msg.message.extendedTextMessage.contextInfo && msg.message.extendedTextMessage.contextInfo.stanzaId === vv.key.id) {
+                switch (selectedOption) {
+                    case '1.1':
+                        reply(".update MODE:public" );
+                        reply(".restart");
+                        break;
+                    case '1.2':               
+                        reply(".update MODE:private");
+                        reply(".restart");
+                        break;
+                    case '1.3':               
+                          reply(".update MODE:groups");
+                        reply(".restart");
+                      break;
+                    case '1.4':     
+                        reply(".update MODE:inbox");
+                        reply(".restart");
+                      break;
+                    case '2.1':     
+                        reply(".update AUTO_VOICE:true");
+                        reply(".restart");
+                        break;
+                    case '2.2':     
+                        reply(".update AUTO_VOICE:false");
+                        reply(".restart");
+                    break;
+                    case '3.1':    
+                        reply(".update AUTO_READ_STATUS:true");
+                        reply(".restart");
+                    break;
+                    case '3.2':    
+                        reply(".update AUTO_READ_STATUS:false");
+                        reply(".restart");
+                    break;
+                    case '4.1': 
+                    reply(".update AUTO_BIO:true");
+                    reply(".restart");
+                    break;
+                    case '4.2': 
+                    reply(".update AUTO_BIO:false");
+                    reply(".restart");
+                    break;
+                    case '5.1': 
+                    reply(".startnews");
+                    break;
+                    case '5.2': 
+                    reply(".stopnews");
+                    break;
+                    case '6.1':      
+                        reply(".update AUTO_TYPING:true");
+                        reply(".restart");
+                        break;
+                    case '6.2':   
+                        reply(".update AUTO_TYPING:false");
+                        reply(".restart");
+                    break;
+                    case '7.1': 
+                        reply(".update AUTO_READ_CMD:true");
+                        reply(".restart");
+                    break;
+                    case '7.2':   
+                        reply(".update AUTO_READ_CMD:false");
+                        reply(".restart");
+                    
+                        break;
+                    default:
+                        reply("Invalid option. Please select a valid option🔴");
+                }
+
+            }
+        });
+
+    } catch (e) {
+        console.error(e);
+        await conn.sendMessage(from, { react: { text: '❌', key: mek.key } })
+        reply('An error occurred while processing your request.');
+    }
+});
